@@ -6,4 +6,3 @@ Homebound 64 is an homage to the never-released Earthbound 64 game by Nintendo. 
 
 The scipts above are core gameplay scripts used to move and animate the character, as well as change scenes via trigger colliders to paint the world as a series of interconnected environments.
 
-
