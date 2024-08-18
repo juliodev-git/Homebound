@@ -1,6 +1,6 @@
 # Homebound
 ![screenshot](screenshot.png)
-[Read More]([https://www.google.com](https://portfolium.com/entry/homebound-64))
+[Portfolio Entry](https://www.google.com](https://portfolium.com/entry/homebound-64)
 Homebound 64 is an homage to the never-released Earthbound 64 game by Nintendo. Contracted on Fiverr, development of this game began in Novemeber 2022. Since then, character models were created and I was tasked with animating the main character to be a mix of Banjo Kazooie and Link from The Legend of Zelda Ocarina of Time.
 
 The main gameplay mechanic implemented for this game was the fishing mechanic. In the water areas of the game, fish swim in circles. When the player casts their rod, fish begin a series of checks that determine whether they will look at the blobber and if they will bite.
