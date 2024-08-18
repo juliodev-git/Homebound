@@ -2,7 +2,11 @@
 ![screenshot](screenshot.png)
 [Read More About Homebound64](https://portfolium.com/entry/homebound-64)
 
+_______________________________________
+
 **Homebound 64** is an homage to the never-released Earthbound 64 game by Nintendo. Homebound64 revolves around vilagers of a mysterious town that find themselves under attack from an unknown assailant. Help the villagers whenever you can, trading items and interacting with villagers to figure out why villagers have been disappearing and how you found yourself in this village in the first place.
+
+_______________________________________
 
 I developed the core gameplay mechanics including player movement, collision-based interactions (NPC's, level changing, fishing), and cinematic sequences in the form of a start screen and NPC cutscenes.The scipts above are core gameplay scripts used to move and animate the character, as well as change scenes via trigger colliders to paint the world as a series of interconnected environments.
 
