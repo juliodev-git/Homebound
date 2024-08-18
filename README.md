@@ -1,6 +1,6 @@
 # Homebound
 ![screenshot](screenshot.png)
-[Portfolio Entry](https://portfolium.com/entry/homebound-64)
+[Read More About Homebound64](https://portfolium.com/entry/homebound-64)
 
 Homebound 64 is an homage to the never-released Earthbound 64 game by Nintendo. Contracted on Fiverr, development of this game began in Novemeber 2022. Since then, character models were created and I was tasked with animating the main character to be a mix of Banjo Kazooie and Link from The Legend of Zelda Ocarina of Time.
 
